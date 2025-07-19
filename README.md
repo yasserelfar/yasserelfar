@@ -1,4 +1,5 @@
 <!-- Header Section with Gradient -->
+<!-- Header Section with Gradient -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Yasso!;Front-End+Dev+%F0%9F%94%A5;Flutter+Lover+%F0%9F%92%96;Building+for+the+Deaf+Community+%F0%9F%91%BC&center=true&size=30">
 </h1>
