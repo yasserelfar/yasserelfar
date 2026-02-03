@@ -62,22 +62,5 @@
   <a href="https://www.youtube.com/@yassoelfar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
 </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" height="180px""")/>>
-</p>
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com">
-    <img align="center" src="https://github-readme-stats.vercel.app" />
-  </a>
-  <a href="https://github.com">
-    <img align="center" src="https://github-readme-stats.vercel.app" />
-  </a>
-</div>
 
