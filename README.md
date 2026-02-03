@@ -65,7 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" height="180px""")/>>
 </p>
 
 ---
@@ -73,10 +73,11 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yasserelfar/signify">
+  <a href="https://github.com">
     <img align="center" src="https://github-readme-stats.vercel.app" />
   </a>
-  <a href="https://github.com/yasserelfar/Astro">
+  <a href="https://github.com">
     <img align="center" src="https://github-readme-stats.vercel.app" />
   </a>
 </div>
+
