@@ -1,5 +1,7 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com" style="padding-top:2px">
+<h1 align="center" height="90px">
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there;I'm+Yasser+Elfar!;Front-End+Dev+%F0%9F%94%A5;Web+Lover+%F0%9F%92%96;&center=true&vCenter=true&size=35&height=60" 
+/>
 
 </h1>
 <p align="center">
