@@ -76,7 +76,7 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 <tr>
 <td width="50%">
 
-### Signify — Sign Language Translator
+![Signify](https://img.shields.io/badge/Signify-38bdf8?style=for-the-badge&logoColor=white) — Sign Language Translator
 **Real-time accessibility solution**
 
 - Built with **React** & an **LSTM** model
@@ -89,7 +89,7 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 </td>
 <td width="50%">
 
-### Educational Platform
+![Educational Platform](https://img.shields.io/badge/Educational_Platform-38bdf8?style=for-the-badge&logoColor=white)
 **Next.js learning management system**
 
 - Role-based authentication & authorization
@@ -105,7 +105,7 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 <tr>
 <td width="50%">
 
-### Component Library
+![Component Library](https://img.shields.io/badge/Component_Library-38bdf8?style=for-the-badge&logoColor=white)
 **Reusable UI design system**
 
 - Production-ready component library
@@ -118,7 +118,7 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 </td>
 <td width="50%">
 
-### Portfolio Website
+![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-38bdf8?style=for-the-badge&logoColor=white)
 **Personal brand showcase**
 
 - Modern, interactive design
