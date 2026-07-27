@@ -33,6 +33,9 @@ const yasser = {
 I'm passionate about creating fast, accessible, and beautiful web applications, from the UI down to the API. My work spans modern JavaScript frameworks on the front end and Node.js-based services on the back end, with a strong emphasis on code quality, scalability, and user-centered design.
 
 </td>
+</tr>
+<tr>
+
 <td width="45%" valign="top">
 
 | | |
