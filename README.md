@@ -1,95 +1,107 @@
-<div align="center" width="90%">
+<div align="center">
 
-# Hey, I'm Yasser Elfar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Yasser%20Elfar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Performance%20Advocate&descAlignY=58&descSize=18" width="100%"/>
 
-### Full-Stack Developer | UI/UX Enthusiast | Performance Advocate
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+full-stack+apps;React+•+Next.js+•+Node.js;Turning+ideas+into+reality;Always+learning,+always+building&font=Fira+Code&center=true&width=480&height=40&color=38bdf8&vCenter=true&pause=1000&size=20" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+full-stack+apps;React+•+Next.js+•+Node.js;Turning+ideas+into+reality;Always+learning,+always+building&font=Fira%20Code&center=true&width=440&height=45&color=38bdf8&vCenter=true&pause=1000&size=22" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-muhamed-00b534234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=flat&logo=vercel&logoColor=white)](https://yasserelfar.github.io/yasso-portfolio)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@yassoelfar)
+<a href="https://www.linkedin.com/in/yasser-muhamed-00b534234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yasserelfar.github.io/yasso-portfolio"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+<a href="https://www.youtube.com/@yassoelfar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
 ## About Me
 
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
 ```typescript
 const yasser = {
-    location: "Cairo, Egypt 🇪🇬",
+    location: "Cairo, Egypt",
     role: "Full-Stack Developer",
     focus: ["Web Performance", "Clean Architecture", "User Experience"],
     currentlyLearning: ["Advanced Next.js Patterns", "System Design", "Node.js & Express"],
-    funFact: "I don't just build interfaces — I build experiences ✨"
+    funFact: "I don't just build interfaces, I build experiences"
 };
 ```
 
-I'm passionate about creating **fast, accessible, and beautiful** web applications, from the UI down to the API. My work spans modern JavaScript frameworks on the front end and Node.js-based services on the back end, with a strong emphasis on code quality, scalability, and user-centered design.
+I'm passionate about creating fast, accessible, and beautiful web applications, from the UI down to the API. My work spans modern JavaScript frameworks on the front end and Node.js-based services on the back end, with a strong emphasis on code quality, scalability, and user-centered design.
 
-- Specialized in **React & Next.js** (SSR, App Router, SEO optimization)
-- Building REST APIs with **Node.js & Express**
-- Building cross-platform apps with **Flutter**
-- Strong advocate for **Design Systems** and **Component-Driven Development**
-- Obsessed with **Web Performance** and **Core Web Vitals**
-- Champion of **Web Accessibility** (WCAG compliance)
+</td>
+<td width="45%" valign="top">
 
----
+| | |
+|---|---|
+| **Frontend** | React & Next.js (SSR, App Router, SEO) |
+| **Backend** | REST APIs with Node.js & Express |
+| **Mobile** | Cross-platform apps with Flutter |
+| **Systems** | Design Systems & Component-Driven Dev |
+| **Performance** | Core Web Vitals optimization |
+| **Accessibility** | WCAG-compliant, inclusive builds |
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,dart,java,cpp&theme=dark" />
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/><br/>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&theme=dark" />
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,linux,figma,vite&theme=dark" />
 
 </div>
 
----
+<br/>
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-![Signify](https://img.shields.io/badge/Signify-38bdf8?style=for-the-badge&logoColor=white) — Sign Language Translator
-**Real-time accessibility solution**
+<img src="https://img.shields.io/badge/Signify-38bdf8?style=for-the-badge&logoColor=white"/>
+
+**Sign Language Translator — real-time accessibility solution**
 
 - Built with **React** & an **LSTM** model
 - Real-time Egyptian Sign Language to Arabic text translation
 - Optimized for low-latency performance
 - Scalable state management architecture
 
-`React` `LSTM` `Machine Learning` `Accessibility`
+<sub>`React` `LSTM` `Machine Learning` `Accessibility`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-![Educational Platform](https://img.shields.io/badge/Educational_Platform-38bdf8?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Educational_Platform-38bdf8?style=for-the-badge&logoColor=white"/>
+
 **Next.js learning management system**
 
 - Role-based authentication & authorization
@@ -97,15 +109,15 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 - Fully responsive & accessible design
 - Custom design system implementation
 
-`Next.js` `TypeScript` `Tailwind` `REST API`
+<sub>`Next.js` `TypeScript` `Tailwind` `REST API`</sub>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-![Component Library](https://img.shields.io/badge/Component_Library-38bdf8?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Component_Library-38bdf8?style=for-the-badge&logoColor=white"/>
+
 **Reusable UI design system**
 
 - Production-ready component library
@@ -113,20 +125,21 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 - WCAG 2.1 AA compliant
 - Comprehensive Storybook documentation
 
-`React` `Tailwind` `Storybook` `Design Tokens`
+<sub>`React` `Tailwind` `Storybook` `Design Tokens`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-38bdf8?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Portfolio_Website-38bdf8?style=for-the-badge&logoColor=white"/>
+
 **Personal brand showcase**
 
 - Modern, interactive design
 - Smooth animations & transitions
-- Performance Score: 95+
+- Performance score: 95+
 - SEO optimized
 
-`Next.js` `Framer Motion` `Tailwind`
+<sub>`Next.js` `Framer Motion` `Tailwind`</sub>
 
 </td>
 </tr>
@@ -134,11 +147,24 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 
 <div align="center">
 
-**[View All Projects](https://yasserelfar.github.io/yasso-portfolio)**
+**[View All Projects →](https://yasserelfar.github.io/yasso-portfolio)**
 
 </div>
 
----
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasserelfar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserelfar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasserelfar&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8"/>
+
+</div>
+
+<br/>
 
 ## Core Expertise
 
@@ -152,7 +178,7 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 }
 ```
 
----
+<br/>
 
 ## Let's Connect
 
@@ -160,21 +186,17 @@ I'm passionate about creating **fast, accessible, and beautiful** web applicatio
 
 **Open to exciting opportunities and collaborations**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-muhamed-00b534234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_My_Work-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yasserelfar.github.io/yasso-portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasserelfar)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yassoelfar)
+<a href="https://www.linkedin.com/in/yasser-muhamed-00b534234"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://yasserelfar.github.io/yasso-portfolio"><img src="https://img.shields.io/badge/Portfolio-Check_My_Work-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8"/></a>
+<a href="https://github.com/yasserelfar"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.youtube.com/@yassoelfar"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer"/>
 
 <div align="center">
-
-"Code is like humor. When you have to explain it, it's bad." — Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=yasserelfar&color=38bdf8&style=flat-square&label=Profile+Views)
-
-**From [yasserelfar](https://github.com/yasserelfar)**
-
+<sub>"Code is like humor. When you have to explain it, it's bad." — Cory House</sub>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yasserelfar&color=38bdf8&style=flat-square&label=Profile+Views"/>
 </div>
